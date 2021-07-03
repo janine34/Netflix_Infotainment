@@ -1,0 +1,249 @@
+{
+data: {
+genre: "Adventure",
+data: [
+{
+episodeId: "tt7011984",
+title: "Diamonds in the Sky",
+poster: "https://m.media-amazon.com/images/M/MV5BYjFlM2ZjYWQtZjYzNS00ZWE3LWFlZWMtMTFkOGMyZDM1MGE4XkEyXkFqcGdeQXVyODExNTExMTM@._V1_SX300.jpg",
+links: [
+{
+rel: "episode_id",
+href: "https://platform-api.vod-prime.space/api/emns/episodes/tt7011984"
+}
+]
+},
+{
+episodeId: "tt13113094",
+title: "Halloween Hero",
+poster: "https://m.media-amazon.com/images/M/MV5BNTUyOGMyYTYtMDg3Ny00YTM1LTlhOTgtZmI2MjcyNzA2YmVlXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_SX300.jpg",
+links: [
+{
+rel: "episode_id",
+href: "https://platform-api.vod-prime.space/api/emns/episodes/tt13113094"
+}
+]
+},
+{
+episodeId: "tt0703701",
+title: "Roswell",
+poster: "https://m.media-amazon.com/images/M/MV5BNGNhYTY1ZWEtODIxMC00NzQ3LTk5NmYtYjgyZTgxOTlkY2E2XkEyXkFqcGdeQXVyMjgzMzAzMjE@._V1_SX300.jpg",
+links: [
+{
+rel: "episode_id",
+href: "https://platform-api.vod-prime.space/api/emns/episodes/tt0703701"
+}
+]
+},
+{
+episodeId: "tt8470632",
+title: "All for One",
+poster: "https://m.media-amazon.com/images/M/MV5BMjQxNTYwMWYtZjUwYi00NWUwLTlmZGQtNDM0ZTk2NjFkODNkXkEyXkFqcGdeQXVyNjM3NDgzNjA@._V1_SX300.jpg",
+links: [
+{
+rel: "episode_id",
+href: "https://platform-api.vod-prime.space/api/emns/episodes/tt8470632"
+}
+]
+},
+{
+episodeId: "tt2239644",
+title: "The Tower",
+poster: "https://m.media-amazon.com/images/M/MV5BMTQwMDk3Nzk2OV5BMl5BanBnXkFtZTcwNTY0Nzk0OQ@@._V1_SX300.jpg",
+links: [
+{
+rel: "episode_id",
+href: "https://platform-api.vod-prime.space/api/emns/episodes/tt2239644"
+}
+]
+},
+{
+episodeId: "tt8201304",
+title: "Extra Ordinary",
+poster: "https://m.media-amazon.com/images/M/MV5BNTg2OTc5MzQzNV5BMl5BanBnXkFtZTgwMTk4MzEzNzM@._V1_SX300.jpg",
+links: [
+{
+rel: "episode_id",
+href: "https://platform-api.vod-prime.space/api/emns/episodes/tt8201304"
+}
+]
+},
+{
+episodeId: "tt0526229",
+title: "Gladiatrix",
+poster: "https://m.media-amazon.com/images/M/MV5BMTY2MDM3OTE3M15BMl5BanBnXkFtZTgwODg0NTU2MjE@._V1_SX300.jpg",
+links: [
+{
+rel: "episode_id",
+href: "https://platform-api.vod-prime.space/api/emns/episodes/tt0526229"
+}
+]
+},
+{
+episodeId: "tt13591186",
+title: "Pirates",
+poster: "https://m.media-amazon.com/images/M/MV5BOWVlMjkxNTItYTkxMC00MDg2LWFiNTUtZTQzNDAwYmQwNzBjXkEyXkFqcGdeQXVyMjI1MTAzMw@@._V1_SX300.jpg",
+links: [
+{
+rel: "episode_id",
+href: "https://platform-api.vod-prime.space/api/emns/episodes/tt13591186"
+}
+]
+},
+{
+episodeId: "tt0909291",
+title: "Justice",
+poster: "https://m.media-amazon.com/images/M/MV5BMjc5YjYzZTYtYzhmNi00YjI4LWFjOWUtM2FhYjAxODZiZmEwXkEyXkFqcGdeQXVyMjg2MTMyNTM@._V1_SX300.jpg",
+links: [
+{
+rel: "episode_id",
+href: "https://platform-api.vod-prime.space/api/emns/episodes/tt0909291"
+}
+]
+},
+{
+episodeId: "tt11687102",
+title: "Let's Dance",
+poster: "https://m.media-amazon.com/images/M/MV5BZjcyOWJiY2EtODAyMS00NTk5LWI0NzgtNmJlN2ZiM2M5MjlmXkEyXkFqcGdeQXVyODAzNzI4Njg@._V1_SX300.jpg",
+links: [
+{
+rel: "episode_id",
+href: "https://platform-api.vod-prime.space/api/emns/episodes/tt11687102"
+}
+]
+},
+{
+episodeId: "tt2100093",
+title: "Air Mater",
+poster: "https://m.media-amazon.com/images/M/MV5BMTkwMTI2NjA0Nl5BMl5BanBnXkFtZTgwMjg3Njc5MjE@._V1_SX300.jpg",
+links: [
+{
+rel: "episode_id",
+href: "https://platform-api.vod-prime.space/api/emns/episodes/tt2100093"
+}
+]
+},
+{
+episodeId: "tt1788785",
+title: "Moon Mater",
+poster: "https://m.media-amazon.com/images/M/MV5BMjA4MTU2MjAwN15BMl5BanBnXkFtZTgwMDgxNzA2MDE@._V1_SX300.jpg",
+links: [
+{
+rel: "episode_id",
+href: "https://platform-api.vod-prime.space/api/emns/episodes/tt1788785"
+}
+]
+},
+{
+episodeId: "tt2166364",
+title: "Time Travel Mater",
+poster: "https://m.media-amazon.com/images/M/MV5BMjE4MDA0NDgzMV5BMl5BanBnXkFtZTgwMTg5Njc5MjE@._V1_SX300.jpg",
+links: [
+{
+rel: "episode_id",
+href: "https://platform-api.vod-prime.space/api/emns/episodes/tt2166364"
+}
+]
+},
+{
+episodeId: "tt1330219",
+title: "Tokyo Mater",
+poster: "https://m.media-amazon.com/images/M/MV5BNDA1MzE0MTQtMTBmNS00YjdlLWIyNGItYzYyZjkyNDRhN2UyXkEyXkFqcGdeQXVyNzMwOTY2NTI@._V1_SX300.jpg",
+links: [
+{
+rel: "episode_id",
+href: "https://platform-api.vod-prime.space/api/emns/episodes/tt1330219"
+}
+]
+},
+{
+episodeId: "tt1511164",
+title: "Unidentified Flying Mater",
+poster: "https://m.media-amazon.com/images/M/MV5BODhlMmNjNDEtYmM4ZC00MDgwLTgzNzAtNWU2OTc4ZjE4YTY3XkEyXkFqcGdeQXVyNDQ2MTMzODA@._V1_SX300.jpg",
+links: [
+{
+rel: "episode_id",
+href: "https://platform-api.vod-prime.space/api/emns/episodes/tt1511164"
+}
+]
+},
+{
+episodeId: "tt1559825",
+title: "Heavy Metal Mater",
+poster: "https://m.media-amazon.com/images/M/MV5BYWM2YTFjNDMtMjY2MC00OGMxLTk3ZWMtNTU3ZjY2MDhhNzk5XkEyXkFqcGdeQXVyNDQ2MTMzODA@._V1_SX300.jpg",
+links: [
+{
+rel: "episode_id",
+href: "https://platform-api.vod-prime.space/api/emns/episodes/tt1559825"
+}
+]
+},
+{
+episodeId: "tt1788784",
+title: "Mater Private Eye",
+poster: "https://m.media-amazon.com/images/M/MV5BZGY1ODcyZmItMzA2NS00N2ZjLTgxNWYtOWRhZDNkNTExZWU2XkEyXkFqcGdeQXVyNDQ2MTMzODA@._V1_SX300.jpg",
+links: [
+{
+rel: "episode_id",
+href: "https://platform-api.vod-prime.space/api/emns/episodes/tt1788784"
+}
+]
+},
+{
+episodeId: "tt1559826",
+title: "Monster Truck Mater",
+poster: "https://m.media-amazon.com/images/M/MV5BYTA5NGI5OGQtM2IxOS00NDY0LWJlZGYtNThmMWJmNDU4ZGFjXkEyXkFqcGdeQXVyNDQ2MTMzODA@._V1_SX300.jpg",
+links: [
+{
+rel: "episode_id",
+href: "https://platform-api.vod-prime.space/api/emns/episodes/tt1559826"
+}
+]
+},
+{
+episodeId: "tt1378121",
+title: "El Materdor",
+poster: "https://m.media-amazon.com/images/M/MV5BM2JlZjFkZjAtMzE1Yi00ZjBhLTg4MDItNGEwNDA4ZGYwNTFjXkEyXkFqcGdeQXVyNDQ2MTMzODA@._V1_SX300.jpg",
+links: [
+{
+rel: "episode_id",
+href: "https://platform-api.vod-prime.space/api/emns/episodes/tt1378121"
+}
+]
+},
+{
+episodeId: "tt1378122",
+title: "Mater the Greater",
+poster: "https://m.media-amazon.com/images/M/MV5BODVjZjVhZjAtZTdjMC00NmY0LTk1YzYtM2U0ODU5OTdlMTg3XkEyXkFqcGdeQXVyNDQ2MTMzODA@._V1_SX300.jpg",
+links: [
+{
+rel: "episode_id",
+href: "https://platform-api.vod-prime.space/api/emns/episodes/tt1378122"
+}
+]
+},
+{
+episodeId: "tt1378123",
+title: "Rescue Squad Mater",
+poster: "https://m.media-amazon.com/images/M/MV5BZjdiOTgzYzAtOThjMS00YTA5LTg0YTQtMTQxYThjYzg5YTI5XkEyXkFqcGdeQXVyNDQ2MTMzODA@._V1_SX300.jpg",
+links: [
+{
+rel: "episode_id",
+href: "https://platform-api.vod-prime.space/api/emns/episodes/tt1378123"
+}
+]
+},
+{
+episodeId: "tt12235502",
+title: "Diablo",
+poster: "https://m.media-amazon.com/images/M/MV5BOWFkNjY1NDYtZGZlOC00M2MyLWI0NjktZjZhNzgwM2JlYTIzXkEyXkFqcGdeQXVyMTE4ODgxNTUy._V1_SX300.jpg",
+links: [
+{
+rel: "episode_id",
+href: "https://platform-api.vod-prime.space/api/emns/episodes/tt12235502"
+}
+]
+}
+]
+}
+}

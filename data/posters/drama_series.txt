@@ -1,0 +1,502 @@
+{
+data: {
+genre: "Drama",
+data: [
+{
+episodeId: "tt7011984",
+title: "Diamonds in the Sky",
+poster: "https://m.media-amazon.com/images/M/MV5BYjFlM2ZjYWQtZjYzNS00ZWE3LWFlZWMtMTFkOGMyZDM1MGE4XkEyXkFqcGdeQXVyODExNTExMTM@._V1_SX300.jpg",
+links: [
+{
+rel: "episode_id",
+href: "https://platform-api.vod-prime.space/api/emns/episodes/tt7011984"
+}
+]
+},
+{
+episodeId: "tt6068420",
+title: "Powers",
+poster: "https://m.media-amazon.com/images/M/MV5BMTQ3OTg3MzIyMF5BMl5BanBnXkFtZTgwNDQ5NDczMDI@._V1_SX300.jpg",
+links: [
+{
+rel: "episode_id",
+href: "https://platform-api.vod-prime.space/api/emns/episodes/tt6068420"
+}
+]
+},
+{
+episodeId: "tt0112490",
+title: "Between Mother and Daughter",
+poster: "N/A",
+links: [
+{
+rel: "episode_id",
+href: "https://platform-api.vod-prime.space/api/emns/episodes/tt0112490"
+}
+]
+},
+{
+episodeId: "tt0644764",
+title: "Lost",
+poster: "https://m.media-amazon.com/images/M/MV5BMTgxNzY0OTYzOF5BMl5BanBnXkFtZTcwNzQzNzAzMg@@._V1_SX300.jpg",
+links: [
+{
+rel: "episode_id",
+href: "https://platform-api.vod-prime.space/api/emns/episodes/tt0644764"
+}
+]
+},
+{
+episodeId: "tt0954434",
+title: "Heroes",
+poster: "https://m.media-amazon.com/images/M/MV5BMTk2Mjc0NTM2N15BMl5BanBnXkFtZTcwNTI5OTU3MQ@@._V1_SX300.jpg",
+links: [
+{
+rel: "episode_id",
+href: "https://platform-api.vod-prime.space/api/emns/episodes/tt0954434"
+}
+]
+},
+{
+episodeId: "tt1171316",
+title: "The Big Bang Theory",
+poster: "https://m.media-amazon.com/images/M/MV5BNDYzODk4MTM1M15BMl5BanBnXkFtZTgwMTY5OTI0MjE@._V1_SX300.jpg",
+links: [
+{
+rel: "episode_id",
+href: "https://platform-api.vod-prime.space/api/emns/episodes/tt1171316"
+}
+]
+},
+{
+episodeId: "tt1643378",
+title: "Doctor Who",
+poster: "https://m.media-amazon.com/images/M/MV5BMjI1MjcxMzQ0NV5BMl5BanBnXkFtZTcwMjQ2MTc0Mw@@._V1_SX300.jpg",
+links: [
+{
+rel: "episode_id",
+href: "https://platform-api.vod-prime.space/api/emns/episodes/tt1643378"
+}
+]
+},
+{
+episodeId: "tt2373065",
+title: "301",
+poster: "https://m.media-amazon.com/images/M/MV5BMTU3ODY4NDYyNV5BMl5BanBnXkFtZTcwNTgyNTA1OA@@._V1_SX300.jpg",
+links: [
+{
+rel: "episode_id",
+href: "https://platform-api.vod-prime.space/api/emns/episodes/tt2373065"
+}
+]
+},
+{
+episodeId: "tt2461370",
+title: "Crimes of Passion",
+poster: "https://m.media-amazon.com/images/M/MV5BMTY2MTc5ODI5OV5BMl5BanBnXkFtZTgwNTY0MzIyMjE@._V1_SX300.jpg",
+links: [
+{
+rel: "episode_id",
+href: "https://platform-api.vod-prime.space/api/emns/episodes/tt2461370"
+}
+]
+},
+{
+episodeId: "tt1150825",
+title: "La disparue",
+poster: "https://m.media-amazon.com/images/M/MV5BMTAzNDg4ODE1NjdeQTJeQWpwZ15BbWU3MDg4MDEwMjE@._V1_SX300.jpg",
+links: [
+{
+rel: "episode_id",
+href: "https://platform-api.vod-prime.space/api/emns/episodes/tt1150825"
+}
+]
+},
+{
+episodeId: "tt3501596",
+title: "Afternoon Delight",
+poster: "https://m.media-amazon.com/images/M/MV5BMjI5MjQ4Mzc5NF5BMl5BanBnXkFtZTgwOTA5MzgxMzE@._V1_SX300.jpg",
+links: [
+{
+rel: "episode_id",
+href: "https://platform-api.vod-prime.space/api/emns/episodes/tt3501596"
+}
+]
+},
+{
+episodeId: "tt0924023",
+title: "Confession",
+poster: "https://m.media-amazon.com/images/M/MV5BYWRlNGQ1MmUtM2FkOC00MDNiLTg4NmYtZjk1N2Q5N2EyMDU3XkEyXkFqcGdeQXVyMjc2Nzg5OTQ@._V1_SX300.jpg",
+links: [
+{
+rel: "episode_id",
+href: "https://platform-api.vod-prime.space/api/emns/episodes/tt0924023"
+}
+]
+},
+{
+episodeId: "tt2293132",
+title: "Hatufim",
+poster: "https://m.media-amazon.com/images/M/MV5BNjYzNTUwNzYyNF5BMl5BanBnXkFtZTgwNTkyMzAxNDE@._V1_SX300.jpg",
+links: [
+{
+rel: "episode_id",
+href: "https://platform-api.vod-prime.space/api/emns/episodes/tt2293132"
+}
+]
+},
+{
+episodeId: "tt5716804",
+title: "Rebelle",
+poster: "https://m.media-amazon.com/images/M/MV5BNmEyZjVmYmQtN2Y2Yi00NWRmLWE0YzItNzdmYjNjMDJjOTcxXkEyXkFqcGdeQXVyMjMwMTA4NTI@._V1_SX300.jpg",
+links: [
+{
+rel: "episode_id",
+href: "https://platform-api.vod-prime.space/api/emns/episodes/tt5716804"
+}
+]
+},
+{
+episodeId: "tt7207346",
+title: "À coeur ouvert",
+poster: "N/A",
+links: [
+{
+rel: "episode_id",
+href: "https://platform-api.vod-prime.space/api/emns/episodes/tt7207346"
+}
+]
+},
+{
+episodeId: "tt0517016",
+title: "Enfance volée",
+poster: "https://m.media-amazon.com/images/M/MV5BMjAzMTc4MzE4Nl5BMl5BanBnXkFtZTcwMTUyMDQzMQ@@._V1_SX300.jpg",
+links: [
+{
+rel: "episode_id",
+href: "https://platform-api.vod-prime.space/api/emns/episodes/tt0517016"
+}
+]
+},
+{
+episodeId: "tt10094366",
+title: "Jackpot",
+poster: "https://m.media-amazon.com/images/M/MV5BYmQwODJhMGQtZmMzMS00N2UxLWI1NjctMzA5YWI5NGZhZGI5XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_SX300.jpg",
+links: [
+{
+rel: "episode_id",
+href: "https://platform-api.vod-prime.space/api/emns/episodes/tt10094366"
+}
+]
+},
+{
+episodeId: "tt1256300",
+title: "Heartland",
+poster: "https://m.media-amazon.com/images/M/MV5BMjI2ODYwMzQyNV5BMl5BanBnXkFtZTgwNTEwMzg0MjE@._V1_SX300.jpg",
+links: [
+{
+rel: "episode_id",
+href: "https://platform-api.vod-prime.space/api/emns/episodes/tt1256300"
+}
+]
+},
+{
+episodeId: "tt5537478",
+title: "Présumé coupable",
+poster: "https://m.media-amazon.com/images/M/MV5BOGRiYzUyMTktNTdjYi00MGZiLTkxMGItZTkzMzI2NDNiNjI2XkEyXkFqcGdeQXVyODUyNDMzOTY@._V1_SX300.jpg",
+links: [
+{
+rel: "episode_id",
+href: "https://platform-api.vod-prime.space/api/emns/episodes/tt5537478"
+}
+]
+},
+{
+episodeId: "tt11028798",
+title: "The Funeral to End All Funerals",
+poster: "https://m.media-amazon.com/images/M/MV5BOTE1Mjc3MWMtM2VjMS00M2E5LWJjZjQtZjgxMDRkMTdiZjZlXkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_SX300.jpg",
+links: [
+{
+rel: "episode_id",
+href: "https://platform-api.vod-prime.space/api/emns/episodes/tt11028798"
+}
+]
+},
+{
+episodeId: "tt0842472",
+title: "Prison Break",
+poster: "https://m.media-amazon.com/images/M/MV5BMTM3MzQ3ODE1OV5BMl5BanBnXkFtZTcwNDU4NjI5MQ@@._V1_SX300.jpg",
+links: [
+{
+rel: "episode_id",
+href: "https://platform-api.vod-prime.space/api/emns/episodes/tt0842472"
+}
+]
+},
+{
+episodeId: "tt4069552",
+title: "Fear Island",
+poster: "https://m.media-amazon.com/images/M/MV5BMTU2MzY3ODcyNF5BMl5BanBnXkFtZTgwNjA2NDQ4NDE@._V1_SX300.jpg",
+links: [
+{
+rel: "episode_id",
+href: "https://platform-api.vod-prime.space/api/emns/episodes/tt4069552"
+}
+]
+},
+{
+episodeId: "tt2828454",
+title: "Let Us Prey",
+poster: "https://m.media-amazon.com/images/M/MV5BMjA4MDgyNDQxOF5BMl5BanBnXkFtZTcwMjQ1NjYxNA@@._V1_SX300.jpg",
+links: [
+{
+rel: "episode_id",
+href: "https://platform-api.vod-prime.space/api/emns/episodes/tt2828454"
+}
+]
+},
+{
+episodeId: "tt4238324",
+title: "Manipulations",
+poster: "N/A",
+links: [
+{
+rel: "episode_id",
+href: "https://platform-api.vod-prime.space/api/emns/episodes/tt4238324"
+}
+]
+},
+{
+episodeId: "tt1410322",
+title: "Love",
+poster: "N/A",
+links: [
+{
+rel: "episode_id",
+href: "https://platform-api.vod-prime.space/api/emns/episodes/tt1410322"
+}
+]
+},
+{
+episodeId: "tt1925861",
+title: "The Rolling Stones",
+poster: "https://m.media-amazon.com/images/M/MV5BNDQxNzM5NzU0OF5BMl5BanBnXkFtZTcwNDg0MjY0Mg@@._V1_SX300.jpg",
+links: [
+{
+rel: "episode_id",
+href: "https://platform-api.vod-prime.space/api/emns/episodes/tt1925861"
+}
+]
+},
+{
+episodeId: "tt6543048",
+title: "Dead Over Heels: An Aurora Teagarden Mystery",
+poster: "https://m.media-amazon.com/images/M/MV5BMThmMDUxOTMtM2JiMi00OGQ3LTg4NzQtYzRkODdkMjc0NGEyXkEyXkFqcGdeQXVyNTA3MjIxMTY@._V1_SX300.jpg",
+links: [
+{
+rel: "episode_id",
+href: "https://platform-api.vod-prime.space/api/emns/episodes/tt6543048"
+}
+]
+},
+{
+episodeId: "tt0668455",
+title: "Harlequin",
+poster: "https://m.media-amazon.com/images/M/MV5BMTY5NDIxMDg4Ml5BMl5BanBnXkFtZTcwMDI2ODQyMQ@@._V1_SX300.jpg",
+links: [
+{
+rel: "episode_id",
+href: "https://platform-api.vod-prime.space/api/emns/episodes/tt0668455"
+}
+]
+},
+{
+episodeId: "tt2077490",
+title: "Shadow",
+poster: "https://m.media-amazon.com/images/M/MV5BMjE0NzExNTY4M15BMl5BanBnXkFtZTgwMDQzNDM0MjE@._V1_SX300.jpg",
+links: [
+{
+rel: "episode_id",
+href: "https://platform-api.vod-prime.space/api/emns/episodes/tt2077490"
+}
+]
+},
+{
+episodeId: "tt2239644",
+title: "The Tower",
+poster: "https://m.media-amazon.com/images/M/MV5BMTQwMDk3Nzk2OV5BMl5BanBnXkFtZTcwNTY0Nzk0OQ@@._V1_SX300.jpg",
+links: [
+{
+rel: "episode_id",
+href: "https://platform-api.vod-prime.space/api/emns/episodes/tt2239644"
+}
+]
+},
+{
+episodeId: "tt8201304",
+title: "Extra Ordinary",
+poster: "https://m.media-amazon.com/images/M/MV5BNTg2OTc5MzQzNV5BMl5BanBnXkFtZTgwMTk4MzEzNzM@._V1_SX300.jpg",
+links: [
+{
+rel: "episode_id",
+href: "https://platform-api.vod-prime.space/api/emns/episodes/tt8201304"
+}
+]
+},
+{
+episodeId: "tt5609884",
+title: "Resistance",
+poster: "https://m.media-amazon.com/images/M/MV5BYWRhMDI5MjQtODkxOC00YTM0LTkwNGYtOTkyNzkyZWM3NTBiXkEyXkFqcGdeQXVyNTUwNjUzODc@._V1_SX300.jpg",
+links: [
+{
+rel: "episode_id",
+href: "https://platform-api.vod-prime.space/api/emns/episodes/tt5609884"
+}
+]
+},
+{
+episodeId: "tt0526229",
+title: "Gladiatrix",
+poster: "https://m.media-amazon.com/images/M/MV5BMTY2MDM3OTE3M15BMl5BanBnXkFtZTgwODg0NTU2MjE@._V1_SX300.jpg",
+links: [
+{
+rel: "episode_id",
+href: "https://platform-api.vod-prime.space/api/emns/episodes/tt0526229"
+}
+]
+},
+{
+episodeId: "tt6884428",
+title: "Speak Your Truth",
+poster: "https://m.media-amazon.com/images/M/MV5BMDYyNmVlNTItOTcxYy00YWMwLWEyYzYtZTk2Zjg4YzU0NDhiXkEyXkFqcGdeQXVyNjQzNTgxMTA@._V1_SX300.jpg",
+links: [
+{
+rel: "episode_id",
+href: "https://platform-api.vod-prime.space/api/emns/episodes/tt6884428"
+}
+]
+},
+{
+episodeId: "tt5555774",
+title: "Man Down",
+poster: "https://m.media-amazon.com/images/M/MV5BYzA2M2U5NzctZjk5ZS00NTU2LWJkNTktYzhhNGFmNWI0YzZmXkEyXkFqcGdeQXVyMjE5Njk1OTc@._V1_SX300.jpg",
+links: [
+{
+rel: "episode_id",
+href: "https://platform-api.vod-prime.space/api/emns/episodes/tt5555774"
+}
+]
+},
+{
+episodeId: "tt10322334",
+title: "Clouds",
+poster: "https://m.media-amazon.com/images/M/MV5BMTZiODViYzMtZDMzZC00ZDliLThlYjctOWM1NzJjM2Y0N2MyXkEyXkFqcGdeQXVyMjYwNDA2MDE@._V1_SX300.jpg",
+links: [
+{
+rel: "episode_id",
+href: "https://platform-api.vod-prime.space/api/emns/episodes/tt10322334"
+}
+]
+},
+{
+episodeId: "tt12055060",
+title: "Search Party",
+poster: "https://m.media-amazon.com/images/M/MV5BZmVjMGFjOWMtNDNiOS00Y2FmLWJjZWYtYTI4NTA3Y2FjYTY2XkEyXkFqcGdeQXVyNjgzMjQ0MTA@._V1_SX300.jpg",
+links: [
+{
+rel: "episode_id",
+href: "https://platform-api.vod-prime.space/api/emns/episodes/tt12055060"
+}
+]
+},
+{
+episodeId: "tt10980196",
+title: "House Where Nobody Lives",
+poster: "https://m.media-amazon.com/images/M/MV5BYzgzZDc2NjMtNjUzYi00ZWMxLTlhNmUtOWIwMGY2NmY4MzcwXkEyXkFqcGdeQXVyNjIzNzc3NzU@._V1_SX300.jpg",
+links: [
+{
+rel: "episode_id",
+href: "https://platform-api.vod-prime.space/api/emns/episodes/tt10980196"
+}
+]
+},
+{
+episodeId: "tt13075188",
+title: "Mathilde",
+poster: "N/A",
+links: [
+{
+rel: "episode_id",
+href: "https://platform-api.vod-prime.space/api/emns/episodes/tt13075188"
+}
+]
+},
+{
+episodeId: "tt0909291",
+title: "Justice",
+poster: "https://m.media-amazon.com/images/M/MV5BMjc5YjYzZTYtYzhmNi00YjI4LWFjOWUtM2FhYjAxODZiZmEwXkEyXkFqcGdeQXVyMjg2MTMyNTM@._V1_SX300.jpg",
+links: [
+{
+rel: "episode_id",
+href: "https://platform-api.vod-prime.space/api/emns/episodes/tt0909291"
+}
+]
+},
+{
+episodeId: "tt13042000",
+title: "After Work",
+poster: "N/A",
+links: [
+{
+rel: "episode_id",
+href: "https://platform-api.vod-prime.space/api/emns/episodes/tt13042000"
+}
+]
+},
+{
+episodeId: "tt1813993",
+title: "Coming Home",
+poster: "https://m.media-amazon.com/images/M/MV5BMTcyOTUxOTYzMF5BMl5BanBnXkFtZTcwMTY3NTg1NA@@._V1_SX300.jpg",
+links: [
+{
+rel: "episode_id",
+href: "https://platform-api.vod-prime.space/api/emns/episodes/tt1813993"
+}
+]
+},
+{
+episodeId: "tt6479784",
+title: "The Boyfriend",
+poster: "N/A",
+links: [
+{
+rel: "episode_id",
+href: "https://platform-api.vod-prime.space/api/emns/episodes/tt6479784"
+}
+]
+},
+{
+episodeId: "tt10418616",
+title: "Le Prix du Silence",
+poster: "N/A",
+links: [
+{
+rel: "episode_id",
+href: "https://platform-api.vod-prime.space/api/emns/episodes/tt10418616"
+}
+]
+},
+{
+episodeId: "tt12235502",
+title: "Diablo",
+poster: "https://m.media-amazon.com/images/M/MV5BOWFkNjY1NDYtZGZlOC00M2MyLWI0NjktZjZhNzgwM2JlYTIzXkEyXkFqcGdeQXVyMTE4ODgxNTUy._V1_SX300.jpg",
+links: [
+{
+rel: "episode_id",
+href: "https://platform-api.vod-prime.space/api/emns/episodes/tt12235502"
+}
+]
+}
+]
+}
+}

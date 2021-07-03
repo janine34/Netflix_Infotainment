@@ -1,0 +1,106 @@
+{
+data: {
+genre: "Thriller",
+data: [
+{
+episodeId: "tt1643378",
+title: "Doctor Who",
+poster: "https://m.media-amazon.com/images/M/MV5BMjI1MjcxMzQ0NV5BMl5BanBnXkFtZTcwMjQ2MTc0Mw@@._V1_SX300.jpg",
+links: [
+{
+rel: "episode_id",
+href: "https://platform-api.vod-prime.space/api/emns/episodes/tt1643378"
+}
+]
+},
+{
+episodeId: "tt0924023",
+title: "Confession",
+poster: "https://m.media-amazon.com/images/M/MV5BYWRlNGQ1MmUtM2FkOC00MDNiLTg4NmYtZjk1N2Q5N2EyMDU3XkEyXkFqcGdeQXVyMjc2Nzg5OTQ@._V1_SX300.jpg",
+links: [
+{
+rel: "episode_id",
+href: "https://platform-api.vod-prime.space/api/emns/episodes/tt0924023"
+}
+]
+},
+{
+episodeId: "tt1256300",
+title: "Heartland",
+poster: "https://m.media-amazon.com/images/M/MV5BMjI2ODYwMzQyNV5BMl5BanBnXkFtZTgwNTEwMzg0MjE@._V1_SX300.jpg",
+links: [
+{
+rel: "episode_id",
+href: "https://platform-api.vod-prime.space/api/emns/episodes/tt1256300"
+}
+]
+},
+{
+episodeId: "tt1925861",
+title: "The Rolling Stones",
+poster: "https://m.media-amazon.com/images/M/MV5BNDQxNzM5NzU0OF5BMl5BanBnXkFtZTcwNDg0MjY0Mg@@._V1_SX300.jpg",
+links: [
+{
+rel: "episode_id",
+href: "https://platform-api.vod-prime.space/api/emns/episodes/tt1925861"
+}
+]
+},
+{
+episodeId: "tt2077490",
+title: "Shadow",
+poster: "https://m.media-amazon.com/images/M/MV5BMjE0NzExNTY4M15BMl5BanBnXkFtZTgwMDQzNDM0MjE@._V1_SX300.jpg",
+links: [
+{
+rel: "episode_id",
+href: "https://platform-api.vod-prime.space/api/emns/episodes/tt2077490"
+}
+]
+},
+{
+episodeId: "tt10980196",
+title: "House Where Nobody Lives",
+poster: "https://m.media-amazon.com/images/M/MV5BYzgzZDc2NjMtNjUzYi00ZWMxLTlhNmUtOWIwMGY2NmY4MzcwXkEyXkFqcGdeQXVyNjIzNzc3NzU@._V1_SX300.jpg",
+links: [
+{
+rel: "episode_id",
+href: "https://platform-api.vod-prime.space/api/emns/episodes/tt10980196"
+}
+]
+},
+{
+episodeId: "tt11828642",
+title: "Pooka Lives!",
+poster: "https://m.media-amazon.com/images/M/MV5BZDkxZGNiNzItNmY1Mi00ZWUzLWEwZWItY2UxNzQyZjNkYmIyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+links: [
+{
+rel: "episode_id",
+href: "https://platform-api.vod-prime.space/api/emns/episodes/tt11828642"
+}
+]
+},
+{
+episodeId: "tt5905514",
+title: "Line of Duty",
+poster: "https://m.media-amazon.com/images/M/MV5BMjI5NDUyNTQxN15BMl5BanBnXkFtZTgwNTQ4MzI2NzE@._V1_SX300.jpg",
+links: [
+{
+rel: "episode_id",
+href: "https://platform-api.vod-prime.space/api/emns/episodes/tt5905514"
+}
+]
+},
+{
+episodeId: "tt12235502",
+title: "Diablo",
+poster: "https://m.media-amazon.com/images/M/MV5BOWFkNjY1NDYtZGZlOC00M2MyLWI0NjktZjZhNzgwM2JlYTIzXkEyXkFqcGdeQXVyMTE4ODgxNTUy._V1_SX300.jpg",
+links: [
+{
+rel: "episode_id",
+href: "https://platform-api.vod-prime.space/api/emns/episodes/tt12235502"
+}
+]
+}
+]
+}
+}
